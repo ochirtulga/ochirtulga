@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ochirtulga
-- 👀 I’m interested in Javascript and Algorithms (...Back End Technologies)
-- 🌱 I’m currently learning Angular, Spring Boot, (...Back End frameworks)
+- 👀 I’m interested in Java, Javascript, Algorithms and Data Structures (...Back End Technologies)
+- 🌱 I’m currently learning Spring Boot, Alogirthms and Data Structures (...Back End frameworks)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ochirtulgan@gmail.com
 
