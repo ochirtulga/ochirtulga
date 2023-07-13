@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ochirtulga
-- 👀 I’m interested in Distributed and highly scalable technologies (systems)
+- 👀 I’m interested in contributing development of Distributed and highly scalable systems
 - 🌱 I’m currently learning Spring Boot, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ochirtulgan@gmail.com
