@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ochirtulga
-- 👀 I’m interested in contributing development of Distributed and highly scalable systems
+- 👀 I’m interested in contributing development of highly scalable, distributed systems
 - 🌱 I’m currently learning Spring Boot, React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on pipeline-manager project that I think will make my work life easier
 - 📫 How to reach me: ochirtulgan@gmail.com
 
 <!---
