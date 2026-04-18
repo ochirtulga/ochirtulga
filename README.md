@@ -6,13 +6,11 @@
 
 ###
 
-<p align="left">Backend engineer who loves building things that scale. I spend most of my time in Java and Spring Boot, wiring up Kafka pipelines, and shipping stuff to AWS. I've worked across fintech and life sciences, and I'm currently leveling up with an MS in Computer Science. I always want to know why something works, not just that it does. <br>Distributed System Developer · Docker · Kubernetes · PostgreSQL · Redis.</p>
+<p align="left">A Software Engineer who loves building things that scale. I think in systems, get uncomfortable with shortcuts, and always want to know why something is built the way it is. I spend most of my time in Java and Spring Boot, wiring up Kafka pipelines, and shipping stuff to AWS. I've worked across fintech and life sciences, and I'm currently leveling up with an MS in Computer Science. I form strong opinions from the data, move decisively, and sleep fine when the system is well-architected.</p>
 
 ###
 
-<h3 align="left">Technologies</h3>
-
-###
+<h3 align="left">Technolgies</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
@@ -66,36 +64,45 @@
 
 ###
 
+<h3 align="left">Personality</h3>
+
+###
+<div>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="middle" width="35%">
+        <h3>Architect (INTJ-A)</h3>
+        <h4>Imaginative</h4>
+        <h4>Strategic thinker</h4>
+        <h4>Planner</h4>
+        <h4>Thoughtful tactician</h4>
+        <h4>Loves perfecting the details</h4>
+        <h4>Creative and rational</h4>
+      </td>
+      <td valign="middle" width="65%" align="center">
+        <img src="https://i.imgur.com/aAs37jK.png" height="500" alt="INTJ Architect" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
 <h3 align="left">Connect with me</h3>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
   <a href="https://www.youtube.com/@ochrono" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/_ochrono_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
   <a href="https://linkedin.com/in/ochirtulga" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
+  <a href="https://instagram.com/_ochrono_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ochirtulga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ochirtulga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ochirtulga/ochirtulga/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ochirtulga/ochirtulga/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ochirtulga/ochirtulga/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
