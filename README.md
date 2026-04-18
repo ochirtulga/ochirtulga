@@ -2,7 +2,15 @@
 
 ###
 
+<h3 align="left">About me</h3>
+
+###
+
 <p align="left">Backend engineer who loves building things that scale. I spend most of my time in Java and Spring Boot, wiring up Kafka pipelines, and shipping stuff to AWS. I've worked across fintech and life sciences, and I'm currently leveling up with an MS in Computer Science. I always want to know why something works, not just that it does. <br>Distributed System Developer · Docker · Kubernetes · PostgreSQL · Redis.</p>
+
+###
+
+<h3 align="left">Technologies</h3>
 
 ###
 
@@ -55,6 +63,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="60" alt="confluence logo"  />
 </div>
+
+###
+
+<h3 align="left">Connect with me</h3>
 
 ###
 
