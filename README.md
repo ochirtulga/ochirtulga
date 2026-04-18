@@ -24,6 +24,7 @@
 
 ###
 
+</br>
 <h3 align="left">My Technologies</h3>
 
 <div align="center">
@@ -89,7 +90,7 @@
 
 ###
 
-</ br>
+</br>
 <p>Wanna know more about my professional experiences? Click  
   <a href="https://raw.githubusercontent.com/ochirtulga/ochirtulga/main/Resume-OchirtulgaNamjim.pdf" target="_blank">
     here
