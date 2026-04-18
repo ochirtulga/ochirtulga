@@ -6,7 +6,21 @@
 
 ###
 
-<p align="left">A Software Engineer who loves building things that scale. I think in systems, get uncomfortable with shortcuts, and always want to know why something is built the way it is. I spend most of my time in Java and Spring Boot, wiring up Kafka pipelines, and shipping stuff to AWS. I've worked across fintech and life sciences, and I'm currently leveling up with an MS in Computer Science. I form strong opinions from the data, move decisively, and sleep fine when the system is well-architected.</p>
+<p align="left">A Software Engineer who loves building things that scale, thinks in systems, gets uncomfortable with shortcuts, and always wants to know why something is built the way it is.</p>
+
+###
+
+<p align="left">I spend most of my time in Java and Spring Boot, wiring up Kafka pipelines, and shipping stuff to AWS. I've worked across fintech and life sciences.</p>
+
+###
+
+<p align="left">Currently, learning AI model training, task automation, integrations, and leveling up with an MS in Computer Science.</p>
+
+###
+
+<p align="left">I form strong opinions from the data, move decisively, and sleep fine when the system is well-architected.</p>
+
+###
 
 ###
 
@@ -103,6 +117,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
+  <a href="https://leetcode.com/ochirtulga" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode" height="30" alt="leetcode logo"  />
+  </a>
+  
 </div>
 
 ###
