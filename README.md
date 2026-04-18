@@ -136,7 +136,8 @@
 
 ###
 
-<h3 align="center">Engineer by trade. Architect by nature.</h3>
+</br>
+<p style="font=small" align="center">Engineer by trade. Architect by nature.</>
 
 <!--
 <h3 align="left">If you want to support me:</h3>
