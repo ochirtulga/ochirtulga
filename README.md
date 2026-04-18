@@ -89,6 +89,16 @@
 
 ###
 
+</ br>
+<p>Wanna know more about my professional experiences? Click  
+  <a href="https://raw.githubusercontent.com/ochirtulga/ochirtulga/main/Resume-OchirtulgaNamjim.pdf" target="_blank">
+    here
+  </a>
+to download my resume.
+</p>
+
+###
+
 <h3 align="left">My Personality</h3>
 
 ###
@@ -110,6 +120,14 @@
     </tr>
   </table>
 </div>
+
+###
+
+<p>Wanna know more about my personality? Click
+  <a href="https://github.com/ochirtulga/ochirtulga/blob/main/intj-a-architect-assertive-male.pdf" target="_blank"> here
+  </a>
+  to download a PDF with details.
+</p>
 
 ###
 
