@@ -125,7 +125,7 @@ to download my resume.
 ###
 
 <p>Wanna know more about my personality? Click
-  <a href="https://github.com/ochirtulga/ochirtulga/blob/main/intj-a-architect-assertive-male.pdf" target="_blank"> here
+  <a href="https://raw.githubusercontent.com/ochirtulga/ochirtulga/main/intj-a-architect-assertive-male.pdf" target="_blank"> here
   </a>
   to download a PDF with details.
 </p>
