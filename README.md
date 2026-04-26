@@ -92,7 +92,7 @@
 
 </br>
 <p>Wanna know more about my professional experiences? Click  
-  <a href="https://raw.githubusercontent.com/ochirtulga/ochirtulga/main/Resume-OchirtulgaNamjim.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/ochirtulga/ochirtulga/main/Resume-OchiNamjim.pdf" target="_blank">
     here
   </a>
 to download my resume.
